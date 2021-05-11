@@ -1,0 +1,44 @@
+[
+  {
+    "id_provincia": {
+      "value": "113",
+      "tipo": "STRING"
+    },
+    "nombre_provincia": {
+      "value": "ALBACETE",
+      "tipo": "STRING"
+    },
+    "numero_municipios": {
+      "value": 1000,
+      "tipo": "INTEGER"
+    }
+  },
+  {
+    "id_provincia": {
+      "value": "114",
+      "tipo": "STRING"
+    },
+    "nombre_provincia": {
+      "value": "TERUEL",
+      "tipo": "STRING"
+    },
+    "numero_municipios": {
+      "value": 236,
+      "tipo": "INTEGER"
+    }
+  },
+  {
+    "id_provincia": {
+      "value": "115",
+      "tipo": "STRING"
+    },
+    "nombre_provincia": {
+      "value": "PALENCIA",
+      "tipo": "STRING"
+    },
+    "numero_municipios": {
+      "value": 191,
+      "tipo": "INTEGER"
+    }
+  }
+]
